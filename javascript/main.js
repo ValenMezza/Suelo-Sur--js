@@ -110,6 +110,8 @@ btnConfirm.addEventListener('click', () =>{
         icon: "success",
         confirm: "ok",
         timer: 2000
+        
 
     })
+    actualizarCarrito();
 })
